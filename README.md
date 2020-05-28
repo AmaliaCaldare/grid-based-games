@@ -8,7 +8,7 @@ The repository contains the following games:
 ### Memory Game
  - simple card game where you need to match fruits pairs by flipping 2 cards each time. 
  
- The game hepled me get a better understanding on:
+ The challange hepled me get a better understanding of:
   - for loops
   - addEventListener
   - setAttribute
