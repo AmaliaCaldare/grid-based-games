@@ -11,6 +11,8 @@ The repository contains the following games:
  The challange hepled me get a better understanding of:
   - for loops
   - addEventListener
+  - removeEventListener
   - setAttribute
+  - appendChild
   - document.querySelector
   - createElement
